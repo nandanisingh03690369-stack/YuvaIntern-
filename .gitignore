@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.DS_Store
+# large raw datasets (download from Kaggle, see data/README.md)
+data/*.csv
