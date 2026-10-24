@@ -48,4 +48,4 @@ Fill in your own numbers after running each script:
 - Week 6: Silhouette score (k=3) = `___`
 
 ## Contact
-Nandani Singh · [LinkedIn](https://linkedin.com/in/your-id) · your-email@example.com
+Nandani Singh · [LinkedIn](www.linkedin.com/in/nandani-singh-6666b0384) · nandanisingh03690369@gmail.com
